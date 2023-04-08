@@ -1,5 +1,16 @@
 # hali_book_reviews_frontend
 
+
+Site Colors
+-Blue
+-Grey
+
+
+
+
+
+
+
 ## Project setup
 ```
 npm install
