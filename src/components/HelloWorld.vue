@@ -1,8 +1,8 @@
 <template>
 
-  <div class="container shadow-sm">
+  <div class="container-fluid main">
     <div>
-      Hali Book Reviews 2
+      Home Page Content
     </div>
 
     <div class="hello">
@@ -72,7 +72,7 @@ a {
   color: #42b983;
 }
 
-.container{
-  background: white;
+.main {
+  
 }
 </style>

@@ -4,12 +4,32 @@ const routes =  [
   {
     path: "/",
     name: "home",
-    component: () => import("./components/HelloWorld.vue")
+    component: () => import("./components/HomePageContent.vue")
   },
   {
-    path: "/books",
-    name: "books",
-    component: () => import("./components/BookContent.vue")
+    path: "/nopicture",
+    name: "nopicturefoodblog",
+    component: () => import("./components/NoPictureFoodBlog.vue")
+  },
+  {
+    path: "/inprogress",
+    name: "inprogress",
+    component: () => import("./components/InProgressContent.vue")
+  },
+  {
+    path: "/donate",
+    name: "donate",
+    component: () => import("./components/DonationContent.vue")
+  },
+  {
+    path: "/autocomplete",
+    name: "autocomplete",
+    component: () => import("./components/AddressesMod.vue")
+  },
+  {
+    path: "/weather",
+    name: "weather",
+    component: () => import("./components/WeatherMod.vue")
   },
   {
     path: "/supportcontent",

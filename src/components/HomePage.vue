@@ -1,23 +1,5 @@
 <template>
 
-<div class="pagecontainer">
-
-  <div class="row">
-    <div class="col-xl-2 bg">
-      1 of 3
-    </div>
-    <div class="col-xl-8 bg">
-        <AppHeader />
-        <RouterView />
-        <AppFooter />
-    </div>
-    <div class="col-xl-2 bg">
-        <div class="">Put advertisements on the side of the page.</div>
-        <!-- d-flex flex-row-reverse -->
-    </div>
-  </div>
-
-
 
 
   <!-- <div class="row justify-content-md-center">
@@ -35,8 +17,26 @@
   </div> -->
 
 
-
+  <div class="container-fluid">
+  <div class="row">
+  <div class="col-2 left">
+    Tyel
+    Cloud
+  </div>
+  <div class="col-8">
+      <AppHeader />
+      <RouterView />
+      <AppFooter />
+      <Weather />
+  </div>
+  <div class="col-2">
+      <div class="ad"><img src="../media/ad-placeholder.jpg" alt="dd"></div>
+      <!-- d-flex flex-row-reverse -->   
+  </div>
+ </div>
 </div>
+
+
 
 </template>
 
@@ -46,7 +46,9 @@
 // test
 import AppHeader from './AppHeader.vue';
 import AppFooter from './AppFooter.vue';
-
+//import Addresses from './AddressesMod.vue';
+// import Weather from './WeatherMod.vue';
+// import Crypto from './CryptoDonations.vue';
 
 
 export default {
@@ -56,14 +58,27 @@ export default {
 
 </script>
 
-<style scoped>
+<style>
   div.pagecontainer{
     text-align: center;
   }
 
+  div.ad{
+    border-top:1px solid black;
+  }
+
 
   .bg {
-    border: 3px solid black;
+    border-top: 3px solid black;
+  }
+
+  div.left {
+    text-align: right;
+  }
+
+  .ad{
+    border:1px solid black;
+    display:inline-block;
   }
 
 </style>

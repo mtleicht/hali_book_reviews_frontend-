@@ -1,11 +1,12 @@
 <template>
-<div class="container shadow-sm">
+<div class="container-fluid">
     <ul class="list-group list-group-horizontal justify-content-center">
         <li><div>Terms of Use</div></li>
         <li><div>Copyright</div></li>
         <li><div>Privacy</div></li>
         <li><div>Cookie Policy</div></li>
         <li><div>About this site</div></li>
+        <li><router-link to="/bookdetails/2">Crypto</router-link></li>
     </ul>
 </div>
 </template>
