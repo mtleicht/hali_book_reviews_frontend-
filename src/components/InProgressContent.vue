@@ -9,42 +9,55 @@
 
 High Level
 
-
-
-
-steam charts - inspiration site for more content
-
 brochure site
 -dns config
 -nginx
 -vue
+
 
 cooking site
 -dns purchase + config
 -nginx
 -vue
 
+
+
+steam charts - inspiration site for more content
+
+stevia powder - inspiration to sell my own product as a fat loss aid.
+              - so make content and sell stevia
+
+
+
 POE blog
+-tyel twitter poe
 -dns purchase + config
 -nginx
+
 -vue
+--red color outside columns
+--black color main content
 
-steam charts
+-poe blog topic: how path of exile's end game actually works and has evolved over time.
+-poe items worth chancing real time page
+-poe vaal gems worth picking up
+-trending uniques on league start
+-trending div cards
 
-POE items worth chancing
---super simple display 1 page
+--explain this on the page
 
 
 Hosting
     mine craft servers
     star citizen servers
     horizen servers?
+    ipv6 host?
+    next cloud host?
+    email host?
 
-POE site?
--dns purchase + config
--nginx
--vue
--path of exile league party site.  $15 for 10 users
+
+-inspiration path of exile league party site.  $15 for 10 users
+-inspiration - poe glance - trending price changes
 
 Consultation - SEO (learn this)
 Consultation - Private Email (implications of self hosting)

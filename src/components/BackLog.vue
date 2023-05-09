@@ -7,10 +7,39 @@
       <div class="sub">
         <pre>
 
+____________________________________________________________
+purchase domain name
+____________________________________________________________
+create linode account
+-this configured my linode billing account
+____________________________________________________________
+create linode
+-this configured linode vm metadata and the root password
+____________________________________________________________
+configure dns
+
+____________________________________________________________
+docker
+
+
+____________________________________________________________
+page analytics
+
+____________________________________________________________
+SEO
+-& understanding if 2 unique domain names can use the same ip and not impact search engine results
+____________________________________________________________
+
+
+____________________________________________________________
+brave creator
+
+____________________________________________________________
 data in json in front end helper tool
-____________________________________________
 
 
+
+____________________________________________________________
 tyel cart service
 ---handle payments website---
 -database
@@ -33,24 +62,27 @@ tyel cart service
 
 
 
-____________________________________
+____________________________________________________________
 Create an Invoice.
 -PDF
 -other tax form?
 
 
-___________________________________________________________
+____________________________________________________________
 Advertisements on computer repair/consultation, web hosting
     Computer repair
     Web Hosting
 
 
-___________________________________________________________
-integrate twitter account to my page - tweets from the service provider (me) display on our page next to an ad.
+____________________________________________________________
+integrate twitter account to my poe page - tweets from the service provider (me) display on our page next to an ad.
+--see steam charts home page for other ideas and/or find the example that we're mimicing here.
+
 
 
 ____________________________________________________________
-page analytics
+WEB UI - Make account; Save profile; Save site settings (cookie);
+
 
         </pre>
 

@@ -3,22 +3,27 @@
       <div class="head">{{this.name}}</div>
       <div class="sub">
         <pre>
-            Home - no picture food blog
+            Home - Ty Food
 
-            -food addiction
-            --https://pubmed.ncbi.nlm.nih.gov/27211587/
-            --Addictions, which are characterized by the inability to control a behavior despite existence of physical or psychological consequences
-            --i really need that server up
-
-            -eat only for energy; usually
-
-            -my cooking style
-            
-            -supplements
-            
-            -ref links for food products on amazon
+            series (NOT blog)
 
             -amazon affiliate program
+            -ref links for food products on amazon (see meals)
+
+            --i really need that server up
+
+
+            --mango juice (ref link) (secret)
+            -eat only for energy; usually
+            -my cooking style
+            -supplements
+            
+
+
+
+            -Food addiction
+            --https://pubmed.ncbi.nlm.nih.gov/27211587/
+            --Addictions, which are characterized by the inability to control a behavior despite existence of physical or psychological consequences
 
 
             -meals
@@ -27,11 +32,33 @@
 
             -meal #3 taco bell hot sauce
 
+            -meal #4 ty cinnamon apple smoothie
+
+                seo: meal replacement smoothie
+
+                --1 green apple; cored and peeled
+                --1 semi ripe yellow banana
+                --2 TBS whole flax seed (get ads from aldi)
+                --1/2 TBS whole chia seed (get ads from aldi)
+                --2 TBS organic bovine protein powder  (ref link here)
+                --1/2 tbs ceylon cinnamon (ref link)
+
+                --1/4 cup pineapple juice
+                --1/4 tbs stevia powder (ref link)
+
+                --1/2 cup pre-frozen kale (optional)
+                --3 tbs coconut milk (optional)
+                --1 tbs coconut oil (optional)
+                --1/4 tbs salt (optional)
+
+
+                
+
             -meal #1
 
                 --SEO: garbanzo, chickpeas, garbanzo beans, chickpeas, fajitas, diet, carbohydrate, chicken fajita, chicken, hot sauce, el yuca teco, habanero, weight loss
 
-                --food blog category: basic food meals
+                --food series: basic food meals
 
                 --picture: see nikon 4/26 pic of stove with 2 pots
                 title
